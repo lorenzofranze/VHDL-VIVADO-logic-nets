@@ -1,4 +1,4 @@
-# VHDL-VIVADO-logic-nets
+# VHDL-VIVADO Logic-Nets
 **WARNING: As required by university rules, the project and the report will be upload at the end of December 2022**  
 *This project was made between February and March 2022, at Politecnico University of Milan.*
 
@@ -17,7 +17,7 @@ The ptoject was assigned as final prove of the course: RETI LOGICHE 2022
 rewrite results on the memory.
 
 - The memory used is a RAM with byte addressing.
- - The computation required is the application of a convolutional code 1/2 described by the   following FSA
+ - The computation required is the application of a convolutional code 1/2 represented by the following FSA
 
 
 <p align="center"> <img height="300" src="https://user-images.githubusercontent.com/101199598/195575826-b26899bb-9277-4b01-a8cb-91184c7f6235.png">
