@@ -1,6 +1,6 @@
 # VHDL-VIVADO-logic-nets
-* This project was made between February and March 2022, at Politecnico University of Milan. *
-* More details about the Requirments and the report have been uploaded *
+*This project was made between February and March 2022, at Politecnico University of Milan.*
+*More details about the Requirments and the report have been uploaded*
 
 The ptoject was assigned as final prove of the course: RETI LOGICHE 2022
 - language: VHDL
@@ -30,7 +30,7 @@ Used 2 main components:
   - **convolutor:** The first component is a large FSA that handles all the operations and is drived by the second component
   - **operations:** The second component is the responsible of all the combinational logic required
   
-* See more details in the Report *
+*See more details in the Report*
 
 
 
