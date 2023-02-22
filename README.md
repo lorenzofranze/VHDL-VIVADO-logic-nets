@@ -1,5 +1,5 @@
 # VHDL-VIVADO Logic-Nets
-**WARNING: As required by university rules, the project and the report will be upload at the end of December 2022**  
+
 *This project was made between February and March 2022, at Politecnico University of Milan.*
 
 *More details about the Requirments and the report are uploaded*
