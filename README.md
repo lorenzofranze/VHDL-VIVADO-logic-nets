@@ -24,7 +24,7 @@ rewrite results on the memory.
  </p>
 
 
-- The component must be able to elaborate several stream of bytes one after the other when a signal called
+- The component must be able to elaborate several streams of bytes one after the other when a signal called
 START is high and emits a signal called STOP when the elaboration is ended, if the START signal returns high
 the elaboration restarts using an other memory as input of data.
 
