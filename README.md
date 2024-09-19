@@ -1,10 +1,10 @@
 # VHDL-VIVADO Logic-Nets
 
-*This project was made between February and March 2022, at Politecnico University of Milan.*
+*This project was developed between February and March 2022, at Politecnico of Milan.*
 
 *More details about the Requirments and the report are uploaded*
 
-The ptoject was assigned as final prove of the course: RETI LOGICHE 2022
+The project was assigned as final prove of the course: RETI LOGICHE 2022
 - language: VHDL
 - software: Xilinx Vivado
 - use: FPGA
